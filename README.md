@@ -1,25 +1,32 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Práctica: 04.01 Complejidad Proyecto Java
 
-## Folder Structure
+## Datos del Estudiante
+- **Nombre:** Juan David Coronel Palacios
+- **Curso:** Estructura de datos
+- **Fecha:** 14/03/2026
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 1. icc-est-u4-complejidad
+![Descripción de la captura](assets/02-captura-ejemplo.png)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+**Fecha:** 14/03/2026
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+**Descripción:** Creamos el proyecto y subimos a github
 
-## Dependency Management
+---
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 2. icc-est-u4-complejidad
+![Descripción de la captura](assets/02-captura-ejemplo-2.png)
+**Fecha:** 15/03/26
+**Descripción:** Creamos la clase Estudiante y Generador y creamos un listado de estudiantes para buscar y optimizar la busqueda.
 
-Holi
+---
 
-Practica 04.01
-Fecha: 14/04/2026
+## 3. icc-est-u4-complejidad
+![Aplicación desplegada](assets/02-captura-demo.png)
+**Fecha:** 15/03/26
+**Descripción:** Ejemplos de bucles listados
 
-Comenzamos la clase
+---

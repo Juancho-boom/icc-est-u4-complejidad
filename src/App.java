@@ -27,7 +27,7 @@ public class App {
                 intentos++;
             }
         }
-
-        System.out.println(x: "Fin");
+        System.out.println(intentos);
+        System.out.println("Fin");
     }
 }
